@@ -1,9 +1,9 @@
 export const YukinaConfig = {
-  Title: "Yukina Template",
+  Title: "LeleWin Demo",
   SubTitle: "Yukina Template Demo Site", // doesn't work when UseHitokotoSubtitle is true
-  BrandTitle: "Yukina",
+  BrandTitle: "LeleWin",
   UseHitokotoSubtitle: true,
-  Description: "Demo Site",
+  Description: "LeleWin Demo Blog Site",
   IconfontURL: "//at.alicdn.com/t/c/font_4507154_ptdxadr7249.css",
   Avatar: "https://s2.loli.net/2024/12/06/zNY2H3mcrwhpi8f.webp",
 
@@ -12,12 +12,12 @@ export const YukinaConfig = {
   SocialLinks: [
     {
       icon: "ic-github",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/sinojunji",
     },
-    {
-      icon: "ic-bilibili",
-      link: "https://space.bilibili.com/22433608",
-    },
+    // {
+    //   icon: "ic-bilibili",
+    //   link: "https://space.bilibili.com/22433608",
+    // },
     {
       icon: "ic-ncm",
       link: "https://music.163.com/#/user/home?id=125291648",
